@@ -7,3 +7,5 @@ I'm interested in computer science because it allows me to apply my math, scienc
 * 💿 SQL
 * 🐍 Python, C, Shell
 * 🧑🏻‍💻 Java
+
+## Examples of work
