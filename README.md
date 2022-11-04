@@ -9,3 +9,4 @@ I'm interested in computer science because it allows me to apply my math, scienc
 * 🧑🏻‍💻 Java
 
 ## Examples of work
+<img src="https://github.com/AmgadELABASY/product-preview-card-component/blob/main/design/active-states.jpg" width="250">
