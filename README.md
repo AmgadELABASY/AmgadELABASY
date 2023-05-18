@@ -13,7 +13,7 @@ I have always been fascinated by Cybersecurity, and I am constantly seeking oppo
 * 🧑🏻‍💻 Java, 
 * 📱 Kotlin, XML, Android Studio
 * Computer Networking : Firewall, DNS, Virtualisation, Cloud Computing
-### Openclassrooms crash courses :
+#### Openclassrooms crash courses :
 * Docker : Create images and orchestrate them with Docker Compose
 * Become an agile developer: Join a team and complete a Sprint
 * Speak in public: improving communication
