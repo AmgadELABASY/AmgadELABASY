@@ -16,3 +16,5 @@ I have always been fascinated by Cybersecurity, and I am constantly seeking oppo
 
 ## Examples of work
 <img src="https://github.com/AmgadELABASY/product-preview-card-component/blob/main/design/active-states.jpg" width=450px height=300px>
+
+<a href="https://github.com/AmgadELABASY/Projets-BUT-Informatique.git"> Check out my projects in BUT Informatique. </a>
