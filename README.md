@@ -1,6 +1,7 @@
-### Welcome 👋 to My GitHub Profile!
-#### I’m a computer science student at Université Sorbonne Paris Nord. 
-I'm interested in computer science because it allows me to apply my math, science, and programming knowledge to solve exciting and valuable problems
+# Welcome 👋 to My GitHub Profile!
+
+## Introduction
+Hello! I'm Amgad ELABASY, a passionate computer student based in Paris, France. Welcome to my GitHub profile, where I showcase my projects, contributions, and journey as a computer student. Here, you'll find a collection of my work, reflecting my dedication, skills, and enthusiasm for software engineering.
 
 ## Skills and Experience
 * 💻 JavaScript, PHP, HTML, CSS
