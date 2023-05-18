@@ -7,12 +7,16 @@ Hello! I'm Amgad ELABASY, a passionate computer student based in Paris, France. 
 I have always been fascinated by Cybersecurity, and I am constantly seeking opportunities to learn, grow, and contribute to the Cybersecurity community. With a strong foundation in the Web and Application developpement, I want to specialize in Cybersecurity.
 
 ## Skills and Experience
-* 💻 JavaScript, PHP, HTML, CSS
+* 💻 JavaScript, PHP, HTML, CSS, Bootstrap
 * 💿 SQL
 * 🐍 Python, C, Shell, Assembly
 * 🧑🏻‍💻 Java, 
 * 📱 Kotlin, XML, Android Studio
 * Computer Networking : Firewall, DNS, Virtualisation, Cloud Computing
+### Openclassrooms crash courses :
+* Docker : Create images and orchestrate them with Docker Compose
+* Become an agile developer: Join a team and complete a Sprint
+* Speak in public: improving communication
 
 ## Examples of work
 <a href="https://github.com/AmgadELABASY/Projets-BUT-Informatique.git"> Check out my projects in BUT Informatique. </a>
