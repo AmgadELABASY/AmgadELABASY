@@ -13,15 +13,15 @@ I have always been fascinated by Cybersecurity, and I am constantly seeking oppo
 * 🧑🏻‍💻 Java, 
 * 📱 Kotlin, XML, Android Studio
 * Computer Networking : Firewall, DNS, Virtualisation, Cloud Computing
-#### Openclassrooms crash courses :
+#### <a href="https://openclassrooms.com/fr/courses">Openclassrooms</a> crash courses :
 * Docker : Create images and orchestrate them with Docker Compose
 * Become an agile developer: Join a team and complete a Sprint
 * Speak in public: improving communication
 
 ## Examples of work
-### <a href="https://github.com/AmgadELABASY/Projets-BUT-Informatique.git"> Check out my projects in BUT Informatique. </a>
+#### <a href="https://github.com/AmgadELABASY/Projets-BUT-Informatique.git"> Check out my projects in BUT Informatique. </a>
 
 
-### Below, you will find a project that I independently completed with the aim of enhancing my front-end coding skills on the <a href="https://www.frontendmentor.io/">Frontend Mentor website</a>
+#### Below, you will find a project that I independently completed with the aim of enhancing my front-end coding skills on the <a href="https://www.frontendmentor.io/">Frontend Mentor website</a>
 <img src="https://github.com/AmgadELABASY/product-preview-card-component/blob/main/design/active-states.jpg" width=450px height=300px>
 
